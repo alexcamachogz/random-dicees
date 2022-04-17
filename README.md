@@ -1,4 +1,8 @@
-![alexcamachogz](https://raw.githubusercontent.com/alexcamachogz/random_images/main/alex.png)
+<p align="center">
+    <a href="https://www.twitter.com/alexcamachogz">
+        <img src="https://raw.githubusercontent.com/alexcamachogz/random_images/main/alex.png" alt="Alex Camacho"/>
+    </a>
+</p>
 
 # Random Dicee
 The objective of this app is learn the core programming concepts that will from the foundation of most of the iOS apps. With this app I learned a lot of important programming knowledge, while building a neat dicee app.
